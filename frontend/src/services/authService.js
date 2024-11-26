@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://property-search-backend-umgr.onrender.com';
+const API_URL = 'https://property-listing-app-backend.onrender.com';
 
 export const loginUser = async (email, password) => {
   try {
